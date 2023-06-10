@@ -1,0 +1,32 @@
+body {
+    margin: 9%;
+    background-color: #ad936f;
+}
+
+h1 {
+    margin-left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+    border: solid 5px;
+    border-radius: 15px;
+    border-color: #e3a674;
+    
+}
+
+.nc {
+    border: solid 5px;
+    border-color: brown;
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dc {
+    border: solid 5px;
+    border-color: brown;
+    background-color: white;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
